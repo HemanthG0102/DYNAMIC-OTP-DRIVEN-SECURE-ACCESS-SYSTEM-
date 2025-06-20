@@ -116,8 +116,7 @@ Message from Vector Security Agency
 | Component                        | Datasheet / Reference Link                                                                                            |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | **LPC2148** ARM7 Microcontroller | [NXP LPC2148 Datasheet](https://www.nxp.com/docs/en/data-sheet/LPC2141_42_44_46_48.pdf)                               |
-| **SIM900A GSM Module**           | [SIM900A AT Commands Manual](https://www.electronicwings.com/public/images/user_images/images/SIM900_AT_Commands.pdf) |
-| **DS1307 RTC**                   | [DS1307 Datasheet](https://datasheets.maximintegrated.com/en/ds/DS1307.pdf)                                           |
+| **GSM Module**                   | [GSM AT Commands Manual](https://www.electronicwings.com/public/images/user_images/images/SIM900_AT_Commands.pdf) |
 | **24C64 EEPROM (I2C)**           | [AT24C64 Datasheet](https://ww1.microchip.com/downloads/en/devicedoc/doc0670.pdf)                                     |
 | **L293D Motor Driver**           | [L293D Datasheet](https://www.ti.com/lit/ds/symlink/l293d.pdf)                                                        |
 | **16x2 LCD Module**              | [HD44780 LCD Controller Datasheet](https://www.sparkfun.com/datasheets/LCD/HD44780.pdf)                               |
