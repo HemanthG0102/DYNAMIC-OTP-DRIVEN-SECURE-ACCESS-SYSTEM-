@@ -91,6 +91,8 @@ This project implements a **Dynamic OTP-Driven Secure Access System** using the 
 ```
 AT
 
+ATE0
+
 AT+CMGF=1
 
 AT+CMGS="Phone Number"
