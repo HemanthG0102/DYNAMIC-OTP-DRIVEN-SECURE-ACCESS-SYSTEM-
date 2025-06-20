@@ -53,7 +53,7 @@ This project implements a **Dynamic OTP-Driven Secure Access System** using the 
 
 2. **OTP Generation**
 
-   * On system start or request, generates 4-digit OTP based on RTC values.
+   * On system start it requests for password and if it's correct it then generates 4-digit OTP based on RTC values.
    * Sends OTP to predefined number via GSM.
 
 3. **User OTP Entry**
