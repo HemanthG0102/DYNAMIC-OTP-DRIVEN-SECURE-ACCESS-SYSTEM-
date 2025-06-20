@@ -49,7 +49,6 @@ This project implements a **Dynamic OTP-Driven Secure Access System** using the 
 1. **System Bootup**
 
    * Initializes all peripherals: LCD, RTC, UART, I2C EEPROM, Keypad.
-   * Displays welcome message.
 
 2. **OTP Generation**
 
